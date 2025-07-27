@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandeep Singh Chouhan</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepsinghchouhan587" alt="sandeepsinghchouhan587" /></a> </p>
 
-- 🌱 I’m currently learning **python ,Html , css , javascripts**
+- 🌱 I’m currently learning **New technologies and tools in MERN Stack**
 
 - 📫 How to reach me **sandeepchouhan.6261@gmail.com**
 
